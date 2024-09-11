@@ -2,4 +2,4 @@
 *32 года*  
 ~~заводчанин~~  
   
-# [!](GitHub-Pages/b2637f37329b45448ec8e664defef702.png) logo
+[!](GitHub-Pages/b2637f37329b45448ec8e664defef702.png)
